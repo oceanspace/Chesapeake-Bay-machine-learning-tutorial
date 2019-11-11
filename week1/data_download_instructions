@@ -1,0 +1,11 @@
+http://data.chesapeakebay.net/WaterQuality
+Source: CBP Water Quality Data (1984-present) 
+Data Type: Water Quality Data
+Start Date: 11/11/2014 
+End Date: 11/11/2019
+Program: TWQM-Tidal Water Quality Monitoring Program
+Project: MAIN-Tidal Mainstem Water Quality Monitoring Project
+Geographical Attribute: Monitoring Station
+Attribute Selection: CB 4.2C
+Parameter: DO, SALINITY, SECCHI, WTEMP
+Format: CSV
